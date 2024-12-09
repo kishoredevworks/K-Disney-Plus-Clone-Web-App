@@ -30,7 +30,7 @@ This project is an auto-updating frontend web application clone of Disney Plus, 
 Clone the project
 
 ```bash
-  git clone https://github.com/vikram10-6/Disney-Plus-Clone
+  https://github.com/kishoredevworks/K-Disney-Plus-Clone-WebApp.git
 ```
 
 Go to the project directory
